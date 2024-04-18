@@ -34,9 +34,13 @@
 
 # Build dir
 .vs
-build
+build/_build_android_aarch64
 bin
 lib
 
 # Sdk dir
 Sdk/
+
+# Mac
+.DS_Store
+
